@@ -1,4 +1,4 @@
 Need Apache, mod_wsgi and Flask packages installed
-Install this Flask app in /var/www
+Install this Flask app in /var/www/hitime/
 Also copy the httpd.conf file into /etc/httpd/conf/httpd.conf
 Restart httpd
